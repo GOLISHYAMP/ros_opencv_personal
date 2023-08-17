@@ -1,0 +1,2 @@
+my_opencv_code
+-DCATKIN_DEVEL_PREFIX=/home/shyam/ROS_openCV/devel -DCMAKE_INSTALL_PREFIX=/home/shyam/ROS_openCV/install -G Unix Makefiles
