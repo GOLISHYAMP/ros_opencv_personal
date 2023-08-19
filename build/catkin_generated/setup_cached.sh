@@ -9,6 +9,7 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/shyam/ROS_openCV/devel:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/shyam/ROS_openCV/devel/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/shyam/ROS_openCV/devel/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD='/home/shyam/ROS_openCV/build'
-export ROSLISP_PACKAGE_DIRECTORIES='/home/shyam/ROS_openCV/devel/share/common-lisp'
+export ROSLISP_PACKAGE_DIRECTORIES="/home/shyam/ROS_openCV/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/shyam/ROS_openCV/src:$ROS_PACKAGE_PATH"
