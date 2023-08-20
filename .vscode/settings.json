@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shyam/ROS_practice/prac_ros_ws/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/actionsc_ws/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/ROSActions_Activity/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/actions/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shyam/ROS_practice/prac_ros_ws/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/actionsc_ws/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/ROSActions_Activity/devel/lib/python3/dist-packages",
+        "/home/shyam/ROS_practice/actions/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}
